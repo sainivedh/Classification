@@ -1,2 +1,4 @@
 Ann Architecture
 Ann(6,'relu'),Ann(6,'relu'),Ann(1,'sigmoid')
+0 - Stays in the Bank
+1 - Leaves the Bank
