@@ -1,0 +1,2 @@
+Ann Architecture
+Ann(6,'relu'),Ann(6,'relu'),Ann(1,'sigmoid')
