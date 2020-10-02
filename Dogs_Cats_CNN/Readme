@@ -1,2 +1,5 @@
 CNN Architecture
 Conv2D,MaxPool2D,Conv2D,MaxPool2D,ANN(128),Output
+
+Deployed on
+catsordog.herokuapp.com
